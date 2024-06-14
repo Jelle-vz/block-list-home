@@ -1,0 +1,7 @@
+# Specific domain exclusion
+0.0.0.0 adservice.google.com
+
+# ===============================================================
+
+# toplevel domain exclusion
+adcolony.com
